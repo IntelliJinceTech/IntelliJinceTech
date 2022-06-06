@@ -1,5 +1,5 @@
 <img src = "images/ChristopherJin_Banner.jpg" height = 500 width = "1000" align = "center">
-<h3 align="center">A passionate, versatile full-stack engineer from the NYC Metropolitan Area</h3>
+<h3 align="center">A passionate, versatile full-stack, product-minded engineer from the NYC Metropolitan Area</h3>
 
 
 <p align="center">
