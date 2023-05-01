@@ -86,9 +86,9 @@ See [my website](https://cjin.netlify.app/) for more information!
   </a>
 </p>
 
--   🔭 I’m currently working on **Next Gen iProduct**
+-   🔭 I’m currently working on **Next Gen iProduct** and **WalletPro**
 
--   🌱 I’m currently learning **Node, React Native**
+-   🌱 I’m currently learning **React, React Native**
 
 -   👨‍💻 All of my projects are available at [https://github.com/IntelliJinceTech](https://github.com/IntelliJinceTech)
 
