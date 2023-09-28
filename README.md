@@ -1,5 +1,5 @@
 <img src = "images/ChristopherJin_Banner.jpg" height = 500 width = "1000" align = "center">
-<h3 align="center">A Product-Minded Software Engineer creating User-Focused Innovations a Story at a Time</h3>
+<h3 align="center">A Product-Minded Software Engineer Creating User-Focused Innovations a Story at a Time</h3>
 
 <p align="center">
   <a href="https://www.christopherjin.com/" target="_blank">
@@ -25,15 +25,50 @@ See [my website](https://www.christopherjin.com/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Portfolio Website</h3>
+      <h3 align="center">WalletPro (Coming Soon!)</h3>
         <br />
-        <a target="_blank" href="https://christopherjin.com/">
-            <img src="images/cjinportfolio.png" width="100%" alt="Portfolio Showcase"/>
+        <a target="_blank" href="#" align="center">
+            <img src="images/WalletPro_ScreenShot.png"   width="100%" alt="WalletPro photo"/>
         </a>
         <br />
         <p align="center">
         
-  <a href="https://cjin.netlify.app/" target="_blank">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=repo&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React, TailwindCSS, MongoDB, Express, Node </strong> - Passion Project to bring financial optimizations to your daily carry and incentive management</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Kandoo</h3>
+        <br />
+      <a target="_blank" href="https://kandoo.onrender.com/">
+            <img src="https://media.giphy.com/media/1VmzvCMmX2iMyzC9Ft/giphy.gif" width="100%"  alt="Kandoo Website"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://kandoo.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React, TailwindCSS, MongoDB, Express, Node, Dndkit, Passport</strong> - A collaborative platform with Auth engineered for usage by a community of 50,000 developers. </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Portfolio Website</h3>
+        <br />
+        <a target="_blank" href="https://christopherjin.com/">
+            <img src="images/portfoliogif.gif" width="100%" alt="Portfolio Showcase"/>
+        </a>
+        <br />
+        <p align="center">
+        
+  <a href="https://christopherjin.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -83,9 +118,9 @@ See [my website](https://www.christopherjin.com/) for more information!
   </a>
 </p>
 
--   🔭 I’m currently working on **Kandoo** and **WalletPro**
+-   🔭 I’m currently working on **WalletPro**
 
--   🌱 I’m currently learning **React, TypeScript**
+-   🌱 I’m currently learning **TypeScript**
 
 -   👨‍💻 All of my projects are available at [https://github.com/IntelliJinceTech](https://github.com/IntelliJinceTech)
 
