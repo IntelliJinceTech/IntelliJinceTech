@@ -1,4 +1,5 @@
 <img src = "images/ChristopherJin_Banner.jpg" height = 500 width = "1000" align = "center">
+
 <h3 align="center">A Product-Minded Software Engineer Creating User-Focused Innovations a Story at a Time</h3>
 
 <p align="center">
