@@ -49,6 +49,9 @@ See [my website](https://www.christopherjin.com/) for more information!
       <a target="_blank" href="https://kandoo.onrender.com/">
             <img src="https://media.giphy.com/media/1VmzvCMmX2iMyzC9Ft/giphy.gif" width="100%"  alt="Kandoo Website"/>
         </a>
+      <a href="https://github.com/snowballDevs/kandoo" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=repo&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
         <br />
         <p align="center">
           
