@@ -49,15 +49,14 @@ See [my website](https://www.christopherjin.com/) for more information!
       <a target="_blank" href="https://kandoo.onrender.com/">
             <img src="https://media.giphy.com/media/1VmzvCMmX2iMyzC9Ft/giphy.gif" width="100%"  alt="Kandoo Website"/>
         </a>
-      <a href="https://github.com/snowballDevs/kandoo" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=repo&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-        <br />
-        <p align="center">
-          
+  <br />
+  <p align="center">
   <a href="https://kandoo.onrender.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
+  <a href="https://github.com/snowballDevs/kandoo" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=repo&color=23555f&style=plastic&logo=github&logo-color=white"/>
+      </a>
       </p>
         <p><strong>React, TailwindCSS, MongoDB, Express, Node, Dndkit, Passport</strong> - A collaborative platform with Auth engineered for usage by a community of 50,000 developers. </p>
     </td>
